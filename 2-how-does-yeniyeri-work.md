@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How does it work?
-description: 'Let's get specific'
+description: Let's get specific.
 nav-menu: true
 ---
 
