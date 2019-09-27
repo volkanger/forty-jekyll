@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Touching content any way?'
-description: null
+description: 'Welcome to YeniYeri. </ br>The fresh way of gathering content.'
 image: null
 author: null
 show_tile: false
