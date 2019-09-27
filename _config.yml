@@ -3,7 +3,7 @@ title: Yeni
 subtitle: Yeri
 email: yeniyericomgithub@f2r.org
 description: Welcome to YeniYeri.<br />The fresh way of gathering content.
-baseurl: " " # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Center St
