@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is YeniYeri?
-description: Lorem ipsum dolor est
+description: Let's start with a definition.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
