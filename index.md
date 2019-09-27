@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hey, this is Volkan'
+landing-title: 'Touching content any way?'
 description: null
 image: null
 author: null
