@@ -15,5 +15,5 @@ Now, YeniYeri allows the designs -in any phase or shape, from napkin sketches to
 In short, YeniYeri is a collaboration tool to help teams produce the right content to right places, with the help of visuals to avoid confusion.
 
 <ul class="actions fit">
-	<li><a href="/2-how-does-yeniyeri-work.html" class="button fit">How YeniYeri Works</a></li>
+	<li><a href="/2-how-does-yeniyeri-work.html" class="button big">Next Up: How YeniYeri Works</a></li>
 </ul>
