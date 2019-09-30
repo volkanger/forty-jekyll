@@ -13,3 +13,7 @@ In 2019, your best chance was to use a kind of structed data to make the data fl
 Now, YeniYeri allows the designs -in any phase or shape, from napkin sketches to Sketch exports- to accept content, visually. A designer would place the image to YeniYeri, and then mark the areas that she is looking for content update. Content team would work on the marked areas to write anything they like, and clients would review the content knowing what text belongs to where. 
 
 In short, YeniYeri is a collaboration tool to help teams produce the right content to right places, with the help of visuals to avoid confusion.
+
+<ul class="actions fit">
+	<li><a href="/2-how-does-yeniyeri-work.html" class="button fit">How YeniYeri Works</a></li>
+</ul>
