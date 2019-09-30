@@ -16,29 +16,29 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Basics</h2>
+<p>Everything starts with a design. Upload it to YeniYeri and then mark the areas that requires content. Then, type in what the actual content will be and save. All the content blocks will be tied to respective locations, so when somebody else from the team is reading it, they don't need to hunt down what text goes where!</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Designer gets to do...</h3>
+		<p>It can start as early as the ideation phase, with a sketch drawn o a restaurant napkin. Snaps a photo of it, and upload to YeniYeri. Designer might see it right there, but it ain't clean for everybody else. So, next step is dragging content boxes on the image, one for heading, one for the image description under there, one for a button, and such. After marking all the areas that requires content, or needs the content to be checked and updated, designer waits until the changes are completed. Depending on the business structure, she might be required to check what the final content looks like on YeniYeri, and updates the designs on Sketch, PhotoShop, or whichever tool is being used.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>And the content team does...</h3>
+		<p>Once the content team opens the YeniYeri project the designer passed on to, they will see the uploaded designs, along with the option to see the requested areas, and the notes from the designer. A heading area can have a box, asking for a "short but strong phrase, to match the masthead background image" as requested by the designer. When typing that short but strong sentence, she will see what the background image looks like, along with where the text goes. All left to do is going through the different areas of the designs and filling the boxes with awesome content!</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>1. Upload images</h3>
+		<p>Snap photo of sketches on paper, export PNG from Sketch, or JPG from PhotoShop. Just upload them to YeniYeri.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Mark Content Areas</h3>
+		<p>Drag and drop the content type indicators on the image, defining what is required from the content team. </p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Enter content</h3>
+		<p>With all the fields already marked, enter content to the boxes.</p>
 	</div>
 </div>
 
