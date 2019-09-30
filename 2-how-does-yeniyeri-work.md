@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Basics</h2>
-<p>Everything starts with a design. Upload it to YeniYeri and then mark the areas that requires content. Then, type in what the actual content will be and save. All the content blocks will be tied to respective locations, so when somebody else from the team is reading it, they don't need to hunt down what text goes where!</p>
+<p>Everything starts with a design. Upload it to YeniYeri and then mark the areas that require content. Then, type in what the actual content will be and save. All the content blocks will be tied to respective locations, so when somebody else from the team is reading it, they don't need to hunt down what text goes where!</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Designer gets to do...</h3>
